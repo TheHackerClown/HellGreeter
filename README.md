@@ -10,6 +10,8 @@ A custom new tab page for Chrome and Firefox with a **glitch style**, **DuckDuck
 - Works in **Chrome** {As far as i know}
 
 ---
+## Preview
+It is hosted on [Click Here](https://thehackerclown.github.io/HellGreeter)
 
 ## Rest Is Upto You, Use it unpacked, pack and ship it, idk.
 ## y'all can read this [LICENSE](./LICENSE)
