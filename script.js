@@ -28,7 +28,8 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     document.getElementById('title').innerText = getRandomQuote();
-    document.body.addEventListener("keydown", function(event) {
+    
+});
+document.body.addEventListener("keydown", function(event) {
         document.getElementById('search-input').focus();
     });
-});
