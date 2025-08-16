@@ -8,6 +8,7 @@ A custom new tab page for Chrome and Firefox with a **glitch style**, **DuckDuck
 - **glitch font** + dark theme
 - Fully **offline** — no tracking or analytics
 - Works in **Chrome** {As far as i know}
+- AutoFocus Search Bar on Keystroke
 
 ---
 ## Preview
